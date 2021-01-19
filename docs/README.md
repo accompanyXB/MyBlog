@@ -8,7 +8,7 @@ actionLink: /zh/guide/
 features:
 - title: JavaScript
   details:
-- title: React
+- title: React.js
   details: 
 - title: Node.js
   details: 
