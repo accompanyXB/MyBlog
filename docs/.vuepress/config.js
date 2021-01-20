@@ -1,9 +1,8 @@
 module.exports = {
     title: "小小博的个人博客",
     keywords: '前端开发',
-    description: "My tech blog",
+    description: "前端进阶之路",
     repo: 'https://github.com/accompanyXB/MyBlog.git', //仓库地址
-    base: '/MyBlog/', // 配合部署项目
     head: [
         ["link", { rel: "icon", href: "/img/avatar.png" }],
         ["link", { rel: "stylesheet", href: "/css/style.css" }],
@@ -12,6 +11,7 @@ module.exports = {
         lineNumbers: true,
     },
     themeConfig: {
+        logo: '/img/avatar.png',
         nav: require("./nav.js"),
         sidebar: require("./sidebar.js"),
         collapsable: true,

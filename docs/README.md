@@ -2,10 +2,10 @@
 home: true
 heroImage: /img/xiaobo.jpg
 actionText: 博客笔记 →
-heroText: 我的主页
+heroText: 好好学习，天天向上
 actionLink: /guide/
 features:
-- title: JavaScript
+- title: 简洁至上
   details: 使用最简单清晰的话语编写博客。
 - title: 注重逻辑
   details: 知识点衔接紧密,注释明白,逻辑清楚。
