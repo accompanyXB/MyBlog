@@ -15,7 +15,7 @@ module.exports = {
         nav: require("./nav.js"),
         sidebar: require("./sidebar.js"),
         collapsable: true,
-        // sidebarDepth: 2,
+        sidebarDepth: 3,
         lastUpdated: "Last Updated",
         searchMaxSuggestoins: 10,
         serviceWorker: {
